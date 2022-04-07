@@ -1,0 +1,110 @@
+{
+  "projects": [
+    {
+      "name": "Projeto de Infra",
+      "budget": "1500",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 5000,
+      "services": [
+        {
+          "name": "Contratar um DevOps",
+          "cost": "5000",
+          "description": "DevOps para criar projeto na AWS",
+          "id": "79475653-9d65-4eb0-921b-9b12b6c6be52"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Desenvolvimento do novo site",
+      "budget": "2991",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 1193,
+      "services": [
+        {
+          "name": "Footer",
+          "cost": "197",
+          "description": "Fazer a footer",
+          "id": "e2ff33d6-996b-4fdf-adf1-ab9dc17487e2"
+        },
+        {
+          "name": "Contratar Dev PHP",
+          "cost": "498",
+          "description": "Criar perfil emails",
+          "id": "20d1dd23-d42c-4eee-b52a-ab3ad101682c"
+        },
+        {
+          "name": "Contratar Dev PHP",
+          "cost": "498",
+          "description": "Criar perfil emails",
+          "id": "03f18884-a682-416a-aa54-15d31e75879a"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "name": "Primeiro Projeto Create",
+      "budget": "9876",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Message",
+      "budget": "234",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 6
+    },
+    {
+      "name": "React Router Dom",
+      "budget": "397",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": "Update v5.3.0 > v6.2.1",
+          "cost": "200",
+          "description": "Atualizar a versão para versão mais atual.",
+          "id": "9f17337f-003a-4a53-ab32-decf3cd92bda"
+        }
+      ],
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
